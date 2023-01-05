@@ -1,0 +1,49 @@
+* {
+    
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    font-family: 'Bungee Spice', cursive;;
+    border: 1px solid black;
+    padding: 30px 15px 20px 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color:rgba(38, 0, 255, 0.349);
+}
+h2 {
+    color:blue;
+}
+div {
+    border-style: solid;
+    border-bottom-color: coral;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo {
+    color: yellowgreen;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: lightblue;
+}
+
+body {
+    font-optical-sizing: auto;
+}
